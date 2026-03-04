@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GenEd 1112 GREEN.kml</name>
+	<Style id="sn_wht-blank12">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank7">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank4">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank9">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank2">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank12">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank14">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank10">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank5">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>GenEd 1112 GREEN</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>-71.11759007483688</longitude>
+			<latitude>42.37467912213537</latitude>
+			<altitude>0</altitude>
+			<heading>-5.717664316015252</heading>
+			<tilt>0</tilt>
+			<range>189.0259260848017</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Harvard Hall Front Door</name>
+			<LookAt>
+				<longitude>-71.11799178419396</longitude>
+				<latitude>42.37451425045632</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001450984833783715</heading>
+				<tilt>0</tilt>
+				<range>263.2680818667832</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.11821800216759,42.37473088500818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Start to A GREEN 350 feet 17 deg WofS</name>
+			<styleUrl>#msn_wht-blank14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.11822470505628,42.37475316747217,0 -71.11861010162383,42.37383710733249,-7.081154781429788e-10 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Point A GREEN</name>
+			<LookAt>
+				<longitude>-71.11764994679881</longitude>
+				<latitude>42.37404136666999</latitude>
+				<altitude>0</altitude>
+				<heading>8.528560959514344e-05</heading>
+				<tilt>0</tilt>
+				<range>263.268081869422</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.1186033986758,42.37381234902296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A to B GREEN 379 ft 80 deg EofS</name>
+			<styleUrl>#msn_wht-blank3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.11722486444185,42.37367235496499,0 -71.11861328471166,42.37382888847297,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Point B GREEN</name>
+			<LookAt>
+				<longitude>-71.11764994679881</longitude>
+				<latitude>42.37404136666999</latitude>
+				<altitude>0</altitude>
+				<heading>8.528560959514344e-05</heading>
+				<tilt>0</tilt>
+				<range>263.268081869422</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.117226006613,42.3736687526671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B to End GREEN  198 ft 34 deg WofN</name>
+			<styleUrl>#msn_wht-blank4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.1172259570203,42.37367039987679,0 -71.11763820682336,42.37412051988353,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Common End Point</name>
+			<LookAt>
+				<longitude>-71.11802443332641</longitude>
+				<latitude>42.37434463746011</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000662225903443239</heading>
+				<tilt>0</tilt>
+				<range>228.4139731772013</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

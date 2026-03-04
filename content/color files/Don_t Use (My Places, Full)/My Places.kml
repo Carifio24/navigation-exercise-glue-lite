@@ -1,0 +1,3332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>My Places.kml</name>
+	<Style id="sh_wht-blank10">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank14">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank3">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank11">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank7">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-blank">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank13">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank1">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank7">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-blank5">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank6">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_star0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-blank0">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank0">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank12">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-blank11">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank8">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank5">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank4">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank2">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wht-blank12">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank10">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank9">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank6">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank2">
+		<IconStyle>
+			<color>ffe700ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff31ff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff64fa</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline5">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_wht-blank14">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wht-blank8">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="inline4">
+		<LineStyle>
+			<color>ff00ffe7</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wht-blank1">
+		<IconStyle>
+			<color>fffd8736</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>fffd8736</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>fffd8023</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wht-blank14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wht-blank4">
+		<IconStyle>
+			<color>ff00f900</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00f900</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00f900</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wht-blank13">
+		<IconStyle>
+			<color>ff6d6bff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff6d6bff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff7056ff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>-71.11727721149673</longitude>
+			<latitude>42.37480159534466</latitude>
+			<altitude>0</altitude>
+			<heading>0.0003305039246754971</heading>
+			<tilt>0</tilt>
+			<range>291.5373375259519</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Document>
+			<name>Your Final Position (Responses) - Form Responses 1-2.csv</name>
+			<Schema name="Your Final Position (Responses) - Form Responses 1-2" id="S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+				<SimpleField type="string" name="Timestamp"><displayName>&lt;b&gt;Timestamp&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="string" name="Email_Address"><displayName>&lt;b&gt;Email Address&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="string" name="Your_FIRST_Name"><displayName>&lt;b&gt;Your FIRST Name&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="string" name="Your_LAST_Name"><displayName>&lt;b&gt;Your LAST Name&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="double" name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_"><displayName>&lt;b&gt;Latitude (in decimal degrees, as reported by Google Maps)&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="double" name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_"><displayName>&lt;b&gt;Longitude (in decimal degrees, as reported by Google Maps, with sign)&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="string" name="How_far_off_do_you_think_your_final_position_might_be__"><displayName>&lt;b&gt;How far off do you think your final position might be? &lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="string" name="In_which_color_group_were_you_"><displayName>&lt;b&gt;In which color group were you?&lt;/b&gt;</displayName>
+</SimpleField>
+			</Schema>
+			<Style id="hlightPointStyle">
+				<IconStyle>
+					<color>ffffff20</color>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffff20</color>
+				</LabelStyle>
+				<BalloonStyle>
+					<text><![CDATA[<table border="0">
+  <tr><td><b>Timestamp</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Timestamp]</td></tr>
+  <tr><td><b>Email Address</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Email_Address]</td></tr>
+  <tr><td><b>Your FIRST Name</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Your_FIRST_Name]</td></tr>
+  <tr><td><b>Your LAST Name</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Your_LAST_Name]</td></tr>
+  <tr><td><b>Latitude (in decimal degrees, as reported by Google Maps)</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Latitude__in_decimal_degrees__as_reported_by_Google_Maps_]</td></tr>
+  <tr><td><b>Longitude (in decimal degrees, as reported by Google Maps, with sign)</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_]</td></tr>
+  <tr><td><b>How far off do you think your final position might be? </b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/How_far_off_do_you_think_your_final_position_might_be__]</td></tr>
+  <tr><td><b>In which color group were you?</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/In_which_color_group_were_you_]</td></tr>
+</table>]]></text>
+				</BalloonStyle>
+			</Style>
+			<StyleMap id="pointStyleMap">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#normPointStyle</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#hlightPointStyle</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="normPointStyle">
+				<IconStyle>
+					<color>ffffff20</color>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffff20</color>
+				</LabelStyle>
+				<BalloonStyle>
+					<text><![CDATA[<table border="0">
+  <tr><td><b>Timestamp</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Timestamp]</td></tr>
+  <tr><td><b>Email Address</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Email_Address]</td></tr>
+  <tr><td><b>Your FIRST Name</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Your_FIRST_Name]</td></tr>
+  <tr><td><b>Your LAST Name</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Your_LAST_Name]</td></tr>
+  <tr><td><b>Latitude (in decimal degrees, as reported by Google Maps)</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Latitude__in_decimal_degrees__as_reported_by_Google_Maps_]</td></tr>
+  <tr><td><b>Longitude (in decimal degrees, as reported by Google Maps, with sign)</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_]</td></tr>
+  <tr><td><b>How far off do you think your final position might be? </b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/How_far_off_do_you_think_your_final_position_might_be__]</td></tr>
+  <tr><td><b>In which color group were you?</b></td><td>$[Your Final Position (Responses) - Form Responses 1-2/In_which_color_group_were_you_]</td></tr>
+</table>]]></text>
+				</BalloonStyle>
+			</Style>
+			<Folder id="layer 0">
+				<name>Your Final Position (Responses) - Form Responses 1-2</name>
+				<open>1</open>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp"></SimpleData>
+							<SimpleData name="Email_Address"></SimpleData>
+							<SimpleData name="Your_FIRST_Name"></SimpleData>
+							<SimpleData name="Your_LAST_Name"></SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">0</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">0</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__"></SimpleData>
+							<SimpleData name="In_which_color_group_were_you_"></SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>0,0,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:40:09</SimpleData>
+							<SimpleData name="Email_Address">jdhe@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Jeffrey</SimpleData>
+							<SimpleData name="Your_LAST_Name">He</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3734</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1172</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">pink</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11721970000001,42.3734312,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:41:32</SimpleData>
+							<SimpleData name="Email_Address">allen_wang@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Allen</SimpleData>
+							<SimpleData name="Your_LAST_Name">Wang</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3737</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1175</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">pink</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11748559999998,42.37372250000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:41:50</SimpleData>
+							<SimpleData name="Email_Address">jonathan_belay@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Jonathan</SimpleData>
+							<SimpleData name="Your_LAST_Name">Belay</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3735</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1178</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">pink</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1178457,42.3735186,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:42:46</SimpleData>
+							<SimpleData name="Email_Address">bfew@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Bradlee</SimpleData>
+							<SimpleData name="Your_LAST_Name">Few</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3744</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1175</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1175152,42.37441730000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:42:50</SimpleData>
+							<SimpleData name="Email_Address">djgonzalez@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">David</SimpleData>
+							<SimpleData name="Your_LAST_Name">Gonzalez</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3745</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1172</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">0-5 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.117206,42.37447349999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:44:13</SimpleData>
+							<SimpleData name="Email_Address">winnielu@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Winnie</SimpleData>
+							<SimpleData name="Your_LAST_Name">Lu</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3742</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1176</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1175798,42.37421209999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:44:55</SimpleData>
+							<SimpleData name="Email_Address">pjnebres@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Paul</SimpleData>
+							<SimpleData name="Your_LAST_Name">Nebres</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3745</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1172</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">0-5 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11721700000001,42.37447900000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:45:55</SimpleData>
+							<SimpleData name="Email_Address">mvassallo@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Michael</SimpleData>
+							<SimpleData name="Your_LAST_Name">Vassallo</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3745</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1175</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">5-10 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11750670000001,42.3745002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:46:18</SimpleData>
+							<SimpleData name="Email_Address">suvanshukla@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Suvan</SimpleData>
+							<SimpleData name="Your_LAST_Name">Shukla</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3744</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1169</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1169022,42.37440609999997,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:46:26</SimpleData>
+							<SimpleData name="Email_Address">cborgman@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Chad</SimpleData>
+							<SimpleData name="Your_LAST_Name">Borgman</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3738</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1181</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">5-10 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1181471,42.37377599999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:47:40</SimpleData>
+							<SimpleData name="Email_Address">trishaprabhu@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Trisha</SimpleData>
+							<SimpleData name="Your_LAST_Name">Prabhu</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3742</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1168</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11678420000001,42.37419210000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:47:52</SimpleData>
+							<SimpleData name="Email_Address">akoller@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Alex</SimpleData>
+							<SimpleData name="Your_LAST_Name">Koller</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3743</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1173</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1173065,42.3742872,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:47:58</SimpleData>
+							<SimpleData name="Email_Address">shirschl@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Shai</SimpleData>
+							<SimpleData name="Your_LAST_Name">Hirschl</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.374</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.118</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11799650000002,42.37402709999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:48:05</SimpleData>
+							<SimpleData name="Email_Address">daran_zhao@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Daran</SimpleData>
+							<SimpleData name="Your_LAST_Name">Zhao</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3741</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1173</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1173404,42.37409500000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:48:09</SimpleData>
+							<SimpleData name="Email_Address">elliotthyman@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Elliott</SimpleData>
+							<SimpleData name="Your_LAST_Name">Hyman</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3745</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1174</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1174252,42.37453320000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:48:16</SimpleData>
+							<SimpleData name="Email_Address">anli_zhang@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Anli</SimpleData>
+							<SimpleData name="Your_LAST_Name">Zhang</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3742</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1175</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1175355,42.37415490000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:48:21</SimpleData>
+							<SimpleData name="Email_Address">londonvallery@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">London</SimpleData>
+							<SimpleData name="Your_LAST_Name">Vallery</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.374</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1177</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.117656,42.37401399999998,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:00</SimpleData>
+							<SimpleData name="Email_Address">rosecollier@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">rose</SimpleData>
+							<SimpleData name="Your_LAST_Name">collier</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.374</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.118</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.117958,42.37404000000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:12</SimpleData>
+							<SimpleData name="Email_Address">abahnasy@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Abdelaziz</SimpleData>
+							<SimpleData name="Your_LAST_Name">Bahnasy</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3732</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1169</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11689650000001,42.37318650000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:21</SimpleData>
+							<SimpleData name="Email_Address">zbuttenwieser@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Zachary</SimpleData>
+							<SimpleData name="Your_LAST_Name">Buttenwieser</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.374</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.118</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">60-100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11797129999998,42.37402889999998,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:33</SimpleData>
+							<SimpleData name="Email_Address">clu@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Cameron</SimpleData>
+							<SimpleData name="Your_LAST_Name">Lu</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3735</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1171</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11709999999999,42.37350000000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:36</SimpleData>
+							<SimpleData name="Email_Address">chiarabertarelli@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">chiara</SimpleData>
+							<SimpleData name="Your_LAST_Name">bertarelli</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3735</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1178</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">5-10 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">pink</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11783999999999,42.3735345,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:38</SimpleData>
+							<SimpleData name="Email_Address">amturner@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Alyssa</SimpleData>
+							<SimpleData name="Your_LAST_Name">Turner</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.374</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1177</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">green</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1176797,42.37399389999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:49:54</SimpleData>
+							<SimpleData name="Email_Address">sdesai@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Samarth</SimpleData>
+							<SimpleData name="Your_LAST_Name">Desai</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3738</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1176</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">More than 100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11763850000001,42.37378219999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:50:20</SimpleData>
+							<SimpleData name="Email_Address">blacutt@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Kevin</SimpleData>
+							<SimpleData name="Your_LAST_Name">Blacutt</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3728</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1167</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11669899999998,42.372809,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:50:35</SimpleData>
+							<SimpleData name="Email_Address">lzou@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Lewis</SimpleData>
+							<SimpleData name="Your_LAST_Name">Zou</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3729</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1167</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">5-10 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11666350000002,42.37290409999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:51:27</SimpleData>
+							<SimpleData name="Email_Address">nicholasmaxwell@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Nicholas</SimpleData>
+							<SimpleData name="Your_LAST_Name">Maxwell</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3732</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.117</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">More than 100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1169793,42.37318920000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:51:49</SimpleData>
+							<SimpleData name="Email_Address">jdespres@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Jack</SimpleData>
+							<SimpleData name="Your_LAST_Name">Despres</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3739</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">71.1177</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>71.1177,42.37389999999998,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:52:04</SimpleData>
+							<SimpleData name="Email_Address">fdoyle@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Frankie</SimpleData>
+							<SimpleData name="Your_LAST_Name">Doyle</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.37</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.11</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">10-30 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">orange</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11000000000001,42.37,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:52:35</SimpleData>
+							<SimpleData name="Email_Address">bridgetsands@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Bridget</SimpleData>
+							<SimpleData name="Your_LAST_Name">Sands</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3736</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1177</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">More than 100 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">pink</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1177441,42.37355059999997,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:52:48</SimpleData>
+							<SimpleData name="Email_Address">vtong@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Victoria &quot;Victoria &quot;Tori&quot;Victoria &quot;&quot;Tori&quot;</SimpleData>
+							<SimpleData name="Your_LAST_Name">Tong</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3739</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.1163</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1163487,42.37386170000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:53:06</SimpleData>
+							<SimpleData name="Email_Address">kakenzua@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Kemi</SimpleData>
+							<SimpleData name="Your_LAST_Name">Akenzua</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.37</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.117</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">30-60 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">yellow</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11699999999999,42.37,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<styleUrl>#pointStyleMap</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_Your_Final_Position__Responses____Form_Responses_1_2_SSSSDDSS">
+							<SimpleData name="Timestamp">3/4/2020 15:54:40</SimpleData>
+							<SimpleData name="Email_Address">tahmidahmed@college.harvard.edu</SimpleData>
+							<SimpleData name="Your_FIRST_Name">Tahmid</SimpleData>
+							<SimpleData name="Your_LAST_Name">Ahmed</SimpleData>
+							<SimpleData name="Latitude__in_decimal_degrees__as_reported_by_Google_Maps_">42.3734</SimpleData>
+							<SimpleData name="Longitude__in_decimal_degrees__as_reported_by_Google_Maps__with_sign_">-71.117</SimpleData>
+							<SimpleData name="How_far_off_do_you_think_your_final_position_might_be__">5-10 feet</SimpleData>
+							<SimpleData name="In_which_color_group_were_you_">blue</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1169867,42.3733911,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document>
+			<name>intermediates_groups.csv</name>
+			<Schema name="intermediates_groups" id="S_intermediates_groups_SDD">
+				<SimpleField type="string" name="Name"><displayName>&lt;b&gt;Name&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="double" name="Lat"><displayName>&lt;b&gt;Lat&lt;/b&gt;</displayName>
+</SimpleField>
+				<SimpleField type="double" name="Long"><displayName>&lt;b&gt;Long&lt;/b&gt;</displayName>
+</SimpleField>
+			</Schema>
+			<Style id="hlightPointStyle0">
+				<IconStyle>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.5</scale>
+				</LabelStyle>
+				<BalloonStyle>
+					<text><![CDATA[<table border="0">
+  <tr><td><b>Name</b></td><td>$[intermediates_groups/Name]</td></tr>
+  <tr><td><b>Lat</b></td><td>$[intermediates_groups/Lat]</td></tr>
+  <tr><td><b>Long</b></td><td>$[intermediates_groups/Long]</td></tr>
+</table>]]></text>
+				</BalloonStyle>
+			</Style>
+			<Style id="sh_placemark_circle_highlight">
+				<IconStyle>
+					<color>ff0880fd</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0880fd</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<StyleMap id="pointStyleMap0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#normPointStyle0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#hlightPointStyle0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="normPointStyle0">
+				<IconStyle>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.5</scale>
+				</LabelStyle>
+				<BalloonStyle>
+					<text><![CDATA[<table border="0">
+  <tr><td><b>Name</b></td><td>$[intermediates_groups/Name]</td></tr>
+  <tr><td><b>Lat</b></td><td>$[intermediates_groups/Lat]</td></tr>
+  <tr><td><b>Long</b></td><td>$[intermediates_groups/Long]</td></tr>
+</table>]]></text>
+				</BalloonStyle>
+			</Style>
+			<StyleMap id="msn_placemark_circle">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_placemark_circle</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_placemark_circle">
+				<IconStyle>
+					<color>ff0880fd</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0880fd</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<Folder id="layer 0">
+				<name>intermediates_groups</name>
+				<open>1</open>
+				<Placemark>
+					<name>Green A</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">GREEN Sana A</SimpleData>
+							<SimpleData name="Lat">42.3754</SimpleData>
+							<SimpleData name="Long">-71.1175</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1175191,42.37536660000003,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Green B</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">GREEN Sana B</SimpleData>
+							<SimpleData name="Lat">42.3747</SimpleData>
+							<SimpleData name="Long">-71.1173</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11733839999999,42.37470800000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blue A</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">BLUE Mke A</SimpleData>
+							<SimpleData name="Lat">42.3754</SimpleData>
+							<SimpleData name="Long">-71.1169</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1168784,42.37535939999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blue B</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">BLUE Mike B</SimpleData>
+							<SimpleData name="Lat">42.3741</SimpleData>
+							<SimpleData name="Long">-71.1173</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11734949999999,42.37413070000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yellow A</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">YELLOW Karim A</SimpleData>
+							<SimpleData name="Lat">42.3736</SimpleData>
+							<SimpleData name="Long">-71.1171</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11705470000001,42.37359189999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yellow B</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">YELLOW Karim B</SimpleData>
+							<SimpleData name="Lat">42.3739</SimpleData>
+							<SimpleData name="Long">-71.1185</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.1184961,42.37386709999998,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pink A</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">PINK Kevin A</SimpleData>
+							<SimpleData name="Lat">42.3755</SimpleData>
+							<SimpleData name="Long">-71.1176</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11756870000001,42.3754919,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pink B</name>
+					<visibility>0</visibility>
+					<styleUrl>#pointStyleMap0</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">PINK Kevin B</SimpleData>
+							<SimpleData name="Lat">42.3743</SimpleData>
+							<SimpleData name="Long">-71.1177</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11767330000001,42.37430000000003,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Orange A</name>
+					<styleUrl>#msn_placemark_circle</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">ORRANGE Harshil A</SimpleData>
+							<SimpleData name="Lat">42.3734</SimpleData>
+							<SimpleData name="Long">-71.1171</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.11709,42.37338600000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Orange B</name>
+					<styleUrl>#msn_placemark_circle</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#S_intermediates_groups_SDD">
+							<SimpleData name="Name">ORANGE Harshil B</SimpleData>
+							<SimpleData name="Lat">42.3736</SimpleData>
+							<SimpleData name="Long">-71.1184</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<coordinates>-71.118391,42.37364500000002,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Document>
+		<ScreenOverlay>
+			<name>Simple Protractor</name>
+			<visibility>0</visibility>
+			<description>You can use this along with the Ruler Tool to measure angles.</description>
+			<Icon>
+				<href>/Users/agoodman/Library/Application Support/Google Earth/500 px protractor_1.png</href>
+			</Icon>
+			<overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0.5" y="1" xunits="fraction" yunits="fraction"/>
+			<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+		</ScreenOverlay>
+		<Folder>
+			<name>GenEd 1112 GREEN</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-71.11759007483688</longitude>
+				<latitude>42.37467912213537</latitude>
+				<altitude>0</altitude>
+				<heading>-5.717664316015252</heading>
+				<tilt>0</tilt>
+				<range>189.0259260848017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Harvard Hall Front Door</name>
+				<LookAt>
+					<longitude>-71.11799178419396</longitude>
+					<latitude>42.37451425045632</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001450984833783715</heading>
+					<tilt>0</tilt>
+					<range>263.2680818667832</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11821800216759,42.37473088500818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Start to A GREEN 350 feet 17 deg WofS</name>
+				<styleUrl>#msn_wht-blank14</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11822470505628,42.37475316747217,0 -71.11861010162383,42.37383710733249,-7.081154781429788e-10 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point A GREEN</name>
+				<LookAt>
+					<longitude>-71.11764994679881</longitude>
+					<latitude>42.37404136666999</latitude>
+					<altitude>0</altitude>
+					<heading>8.528560959514344e-05</heading>
+					<tilt>0</tilt>
+					<range>263.268081869422</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank9</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.1186033986758,42.37381234902296,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A to B GREEN 379 ft 80 deg EofS</name>
+				<styleUrl>#msn_wht-blank3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11722486444185,42.37367235496499,0 -71.11861328471166,42.37382888847297,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point B GREEN</name>
+				<LookAt>
+					<longitude>-71.11764994679881</longitude>
+					<latitude>42.37404136666999</latitude>
+					<altitude>0</altitude>
+					<heading>8.528560959514344e-05</heading>
+					<tilt>0</tilt>
+					<range>263.268081869422</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank9</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.117226006613,42.3736687526671,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B to End GREEN  198 ft 34 deg WofN</name>
+				<styleUrl>#msn_wht-blank4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.1172259570203,42.37367039987679,0 -71.11763820682336,42.37412051988353,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Common End Point</name>
+				<LookAt>
+					<longitude>-71.11802443332641</longitude>
+					<latitude>42.37434463746011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000662225903443239</heading>
+					<tilt>0</tilt>
+					<range>228.4139731772013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GenEd 1112 BLUE</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-71.11759007483688</longitude>
+				<latitude>42.37467912213537</latitude>
+				<altitude>0</altitude>
+				<heading>-5.717664316015252</heading>
+				<tilt>0</tilt>
+				<range>189.0259260848017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Harvard Hall Back Door</name>
+				<LookAt>
+					<longitude>-71.1180437127239</longitude>
+					<latitude>42.37501867046463</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006875753616350101</heading>
+					<tilt>33.45885056204858</tilt>
+					<range>65.35397535252849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11817156307613,42.37493383965498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Start to A BLUE 244 feet 50 deg EofN</name>
+				<styleUrl>#msn_wht-blank10</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11817176479613,42.37493598970455,0 -71.11748447953514,42.37537206722815,-7.081154781429788e-10 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point A BLUE</name>
+				<LookAt>
+					<longitude>-71.11767080390675</longitude>
+					<latitude>42.37491790553644</latitude>
+					<altitude>0</altitude>
+					<heading>-5.717718723871252</heading>
+					<tilt>0</tilt>
+					<range>189.0259260848842</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11748136602739,42.37536693790244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A to B BLUE 281 ft 24 deg WofS</name>
+				<styleUrl>#msn_wht-blank11</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.1174840000843,42.37536852964445,0 -71.11791342669827,42.37466503022331,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point B BLUE</name>
+				<LookAt>
+					<longitude>-71.11767080390675</longitude>
+					<latitude>42.37491790553644</latitude>
+					<altitude>0</altitude>
+					<heading>-5.717718723871252</heading>
+					<tilt>0</tilt>
+					<range>189.0259260848842</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11791007038859,42.37464026705068,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B to End BLUE  225 ft 21 deg EofS</name>
+				<styleUrl>#msn_wht-blank11</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11791151185649,42.37466874493153,0 -71.1179170166069,42.37465583202192,0 -71.11791773581569,42.37466113840873,0 -71.11791390617185,42.37466856782255,0 -71.11791390617185,42.37466856782255,0 -71.1176352630988,42.37411520144418,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Common End Point</name>
+				<LookAt>
+					<longitude>-71.11802443332641</longitude>
+					<latitude>42.37434463746011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000662225903443239</heading>
+					<tilt>0</tilt>
+					<range>228.4139731772013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GenEd 1112 ORANGE</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-71.11759007483688</longitude>
+				<latitude>42.37467912213537</latitude>
+				<altitude>0</altitude>
+				<heading>-5.717664316015252</heading>
+				<tilt>0</tilt>
+				<range>189.0259260848017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Harvard Hall Front Door</name>
+				<LookAt>
+					<longitude>-71.11799178419396</longitude>
+					<latitude>42.37451425045632</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001450984833783715</heading>
+					<tilt>0</tilt>
+					<range>263.2680818667832</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11821800216759,42.37473088500818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Start to A ORANGE 519 feet 43 deg EofS</name>
+				<styleUrl>#msn_wht-blank8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11822470505628,42.37475316747217,0 -71.11709195137243,42.37360190092607,-7.081154781429788e-10 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point A ORANGE</name>
+				<LookAt>
+					<longitude>-71.11799178419396</longitude>
+					<latitude>42.37451425045632</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001450984833783715</heading>
+					<tilt>0</tilt>
+					<range>263.2680818667832</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11709530273046,42.37360437678848,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A to B ORANGE 281 ft 70 deg WofN</name>
+				<styleUrl>#msn_wht-blank1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11709865405346,42.37360685274026,0 -71.11808394333703,42.37385196458811,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point B ORANGE</name>
+				<LookAt>
+					<longitude>-71.11763403270808</longitude>
+					<latitude>42.37409346104273</latitude>
+					<altitude>0</altitude>
+					<heading>-5.717693945039108</heading>
+					<tilt>0</tilt>
+					<range>189.025926081594</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11809142063332,42.37383720462301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B to End ORANGE  159 ft 50 deg EofN</name>
+				<styleUrl>#msn_wht-blank1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11810169287273,42.37385101447695,0 -71.11763864319903,42.37412051988404,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Common End Point</name>
+				<LookAt>
+					<longitude>-71.11802443332641</longitude>
+					<latitude>42.37434463746011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000662225903443239</heading>
+					<tilt>0</tilt>
+					<range>228.4139731772013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank13</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anli, off by 30 feet</name>
+				<styleUrl>#msn_wht-blank8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11763832875312,42.3741222816407,0 -71.11753567513161,42.37415436598121,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Winnie, off by 36 feet</name>
+				<styleUrl>#msn_wht-blank8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11763832875478,42.37412179551087,0 -71.11757976325841,42.37421172940262,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GenEd 1112 PINK</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-71.11759007483688</longitude>
+				<latitude>42.37467912213537</latitude>
+				<altitude>0</altitude>
+				<heading>-5.717664316015252</heading>
+				<tilt>0</tilt>
+				<range>189.0259260848017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Harvard Hall Back Door</name>
+				<LookAt>
+					<longitude>-71.1180437127239</longitude>
+					<latitude>42.37501867046463</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006875753616350101</heading>
+					<tilt>33.45885056204858</tilt>
+					<range>65.35397535252849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11817156307613,42.37493383965498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Start to A PINK 229 feet 22 deg EofN</name>
+				<styleUrl>#msn_wht-blank</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11817176479613,42.37493598970455,0 -71.11785213845735,42.37551749452646,-7.081154781429788e-10 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point A PINK</name>
+				<LookAt>
+					<longitude>-71.11783127578715</longitude>
+					<latitude>42.37545893053163</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005320585426802479</heading>
+					<tilt>0</tilt>
+					<range>131.103875141725</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11785213834585,42.37550886402229,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A to B PINK 268 ft 11 deg EofS</name>
+				<styleUrl>#msn_wht-blank</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11784656278132,42.37550940628059,0 -71.11766193301393,42.37478672434818,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point B PINK</name>
+				<LookAt>
+					<longitude>-71.11763433046737</longitude>
+					<latitude>42.37457861913866</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000399319594034583</heading>
+					<tilt>0</tilt>
+					<range>131.1038751437093</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11766353869446,42.37477527125883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B to End PINK  247 ft 1 deg EofS</name>
+				<styleUrl>#msn_wht-blank</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11766433076356,42.37479558072703,0 -71.11763777045,42.37411939156432,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Common End Point</name>
+				<LookAt>
+					<longitude>-71.11802443332641</longitude>
+					<latitude>42.37434463746011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000662225903443239</heading>
+					<tilt>0</tilt>
+					<range>228.4139731772013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GenEd 1112 YELLOW</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-71.11759007483688</longitude>
+				<latitude>42.37467912213537</latitude>
+				<altitude>0</altitude>
+				<heading>-5.717664316015252</heading>
+				<tilt>0</tilt>
+				<range>189.0259260848017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Harvard Hall Back Door</name>
+				<LookAt>
+					<longitude>-71.1180437127239</longitude>
+					<latitude>42.37501867046463</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0006875753616350101</heading>
+					<tilt>33.45885056204858</tilt>
+					<range>65.35397535252849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_wht-blank12</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11817156307613,42.37493383965498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Start to A YELLOW 233 feet 63 deg EofN</name>
+				<styleUrl>#inline6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11817176479613,42.37493598970455,0 -71.11710522637398,42.37533171489623,-7.081154781429788e-10 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point A YELLOW</name>
+				<LookAt>
+					<longitude>-71.11709992793025</longitude>
+					<latitude>42.37532968706709</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006948770701282961</heading>
+					<tilt>23.25658435456278</tilt>
+					<range>66.20971119834344</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11709992793024,42.37532968706709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A to B YELLOW 211 ft 9 deg EofS</name>
+				<styleUrl>#inline3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11709608996573,42.37533077984803,0 -71.11698766738843,42.37475758821694,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point B YELLOW</name>
+				<LookAt>
+					<longitude>-71.11698380110653</longitude>
+					<latitude>42.37485167840716</latitude>
+					<altitude>0</altitude>
+					<heading>0.569611366267044</heading>
+					<tilt>0</tilt>
+					<range>156.1561072349711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11699491030842,42.37473459195671,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B to End YELLOW  293 ft 37 deg WofS</name>
+				<styleUrl>#inline0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-71.11699157281818,42.3747451836779,0 -71.11763798863704,42.37411955275311,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Common End Point</name>
+				<LookAt>
+					<longitude>-71.11802443332641</longitude>
+					<latitude>42.37434463746011</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000662225903443239</heading>
+					<tilt>0</tilt>
+					<range>228.4139731772013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_star0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-71.11763779842717,42.37411894737451,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Testing</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Folder>
+				<name>Sightseeing Tour</name>
+				<visibility>0</visibility>
+				<description><![CDATA[Make sure 3D Buildings <br> layer is checked
+    <]]></description>
+				<Style id="sn_noicon">
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+					<LabelStyle>
+						<color>00ffffff</color>
+					</LabelStyle>
+				</Style>
+				<gx:Tour>
+					<name>Start tour here</name>
+					<visibility>0</visibility>
+					<gx:Playlist>
+						<gx:FlyTo>
+							<gx:duration>7</gx:duration>
+							<LookAt>
+								<longitude>2.291433408790398</longitude>
+								<latitude>48.86046599047212</latitude>
+								<altitude>0</altitude>
+								<heading>-44.78443344916974</heading>
+								<tilt>84.50456468378914</tilt>
+								<range>1237.092264232066</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>2.292516819664192</longitude>
+								<latitude>48.85698932280409</latitude>
+								<altitude>0</altitude>
+								<heading>-133.4483170172488</heading>
+								<tilt>70.63136956830182</tilt>
+								<range>969.7156365886258</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>6</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>2.295838863036321</longitude>
+								<latitude>48.85722765839494</latitude>
+								<altitude>0</altitude>
+								<heading>144.8330905543111</heading>
+								<tilt>82.11044392463096</tilt>
+								<range>1280.086026374546</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>7</gx:duration>
+							<LookAt>
+								<longitude>-43.20953574843956</longitude>
+								<latitude>-22.950407157676</latitude>
+								<altitude>0</altitude>
+								<heading>-134.4620862063529</heading>
+								<tilt>58.47824597790541</tilt>
+								<range>518.7551361289096</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>6</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-43.21454496440098</longitude>
+								<latitude>-22.95360604377341</latitude>
+								<altitude>0</altitude>
+								<heading>-120.57288800332</heading>
+								<tilt>65.17521407189773</tilt>
+								<range>660</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>6</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-43.21660160057429</longitude>
+								<latitude>-22.94806206144405</latitude>
+								<altitude>0</altitude>
+								<heading>-57.54538440420448</heading>
+								<tilt>80.00485701436207</tilt>
+								<range>1000</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>6</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-43.20919504667657</longitude>
+								<latitude>-22.95016892675761</latitude>
+								<altitude>0</altitude>
+								<heading>43.40129179538381</heading>
+								<tilt>66.44869267970699</tilt>
+								<range>400</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>8</gx:duration>
+							<LookAt>
+								<longitude>-111.825259364926</longitude>
+								<latitude>36.13629032059509</latitude>
+								<altitude>0</altitude>
+								<heading>-122.0385885563142</heading>
+								<tilt>71.25665521441707</tilt>
+								<range>2881.126209803783</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>5</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>10</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-111.8178193912654</longitude>
+								<latitude>36.12220415999125</latitude>
+								<altitude>0</altitude>
+								<heading>-20.55049931075685</heading>
+								<tilt>70.46152747623586</tilt>
+								<range>6923.518337176915</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>8</gx:duration>
+							<LookAt>
+								<longitude>151.2122001847845</longitude>
+								<latitude>-33.85543600090152</latitude>
+								<altitude>0</altitude>
+								<heading>-136.7378847758026</heading>
+								<tilt>68.87493344592141</tilt>
+								<range>1332.179816629172</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>5</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>8</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>151.2102747218619</longitude>
+								<latitude>-33.86562371282643</latitude>
+								<altitude>0</altitude>
+								<heading>-100.9504733403397</heading>
+								<tilt>61.69903309250663</tilt>
+								<range>1157.567447390761</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>8</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>151.2084567507541</longitude>
+								<latitude>-33.8719709424179</latitude>
+								<altitude>0</altitude>
+								<heading>-30.97913448260641</heading>
+								<tilt>73.81737727550399</tilt>
+								<range>1804.653308065182</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>1</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>7</gx:duration>
+							<LookAt>
+								<longitude>12.45863229278517</longitude>
+								<latitude>41.90238356414683</latitude>
+								<altitude>0</altitude>
+								<heading>-88.09821473983064</heading>
+								<tilt>72.55531058146758</tilt>
+								<range>545.5229608700497</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>2</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>12.45576850829061</longitude>
+								<latitude>41.90259432723413</latitude>
+								<altitude>0</altitude>
+								<heading>-45.63719485912762</heading>
+								<tilt>67.45254428277359</tilt>
+								<range>440.4364927688193</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>12.45521415868397</longitude>
+								<latitude>41.90223391472421</latitude>
+								<altitude>0</altitude>
+								<heading>62.2555896882265</heading>
+								<tilt>56.44844484217481</tilt>
+								<range>660</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>12.45542893820797</longitude>
+								<latitude>41.90247136879627</latitude>
+								<altitude>0</altitude>
+								<heading>143.1756044668531</heading>
+								<tilt>54.3757116252694</tilt>
+								<range>630.2289324677029</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>12.45514725466031</longitude>
+								<latitude>41.90208944848824</latitude>
+								<altitude>0</altitude>
+								<heading>-126.2904640924972</heading>
+								<tilt>62.98553010498054</tilt>
+								<range>973.0823093362777</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>9</gx:duration>
+							<LookAt>
+								<longitude>-0.120788371613878</longitude>
+								<latitude>51.50501055442484</latitude>
+								<altitude>0</altitude>
+								<heading>-26.35029775803154</heading>
+								<tilt>73.05226006937514</tilt>
+								<range>454.4339921427415</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-0.1218913821474976</longitude>
+								<latitude>51.50305583632267</latitude>
+								<altitude>0</altitude>
+								<heading>-104.133103977011</heading>
+								<tilt>62.33871582343829</tilt>
+								<range>464.9005677104844</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-0.1210052471346601</longitude>
+								<latitude>51.50193262427588</latitude>
+								<altitude>0</altitude>
+								<heading>-148.4647519019507</heading>
+								<tilt>62.49820488326289</tilt>
+								<range>467.9437060050972</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>10</gx:duration>
+							<LookAt>
+								<longitude>-49.94775814514536</longitude>
+								<latitude>41.72923316238139</latitude>
+								<altitude>0</altitude>
+								<heading>-22.16745101595302</heading>
+								<tilt>58.51118653734172</tilt>
+								<range>15751.03428612136</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-49.95064833173971</longitude>
+								<latitude>41.73675356498745</latitude>
+								<altitude>0</altitude>
+								<heading>-22.0614952772804</heading>
+								<tilt>58.41962787655594</tilt>
+								<range>3785.050923503806</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-49.94963603456613</longitude>
+								<latitude>41.73044100800762</latitude>
+								<altitude>0</altitude>
+								<heading>-21.98561736233518</heading>
+								<tilt>59.14449309551124</tilt>
+								<range>1298.527712044066</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-49.9476723120594</longitude>
+								<latitude>41.73049451623312</latitude>
+								<altitude>0</altitude>
+								<heading>39.17295296812819</heading>
+								<tilt>67.43152193490242</tilt>
+								<range>877.6242516424816</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-49.94932550499109</longitude>
+								<latitude>41.73351808554008</latitude>
+								<altitude>0</altitude>
+								<heading>62.89000376535781</heading>
+								<tilt>76.83720128724194</tilt>
+								<range>184.8131750740089</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-49.94863305687194</longitude>
+								<latitude>41.7346904804198</latitude>
+								<altitude>0</altitude>
+								<heading>162.2375295003862</heading>
+								<tilt>70.14149365018284</tilt>
+								<range>231.5863465484218</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>14</gx:duration>
+							<LookAt>
+								<longitude>116.3908088768237</longitude>
+								<latitude>39.91379916102216</latitude>
+								<altitude>0</altitude>
+								<heading>-1.138855209962087</heading>
+								<tilt>63.78082439241467</tilt>
+								<range>804.0076519351231</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>116.3902022277641</longitude>
+								<latitude>39.91548590997697</latitude>
+								<altitude>0</altitude>
+								<heading>36.54261588920597</heading>
+								<tilt>53.23349045734695</tilt>
+								<range>1284.830404072757</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>116.3894381947359</longitude>
+								<latitude>39.91647028464102</latitude>
+								<altitude>0</altitude>
+								<heading>109.9844905127141</heading>
+								<tilt>77.81184480203503</tilt>
+								<range>434.044223900926</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>13</gx:duration>
+							<LookAt>
+								<longitude>138.7818265722904</longitude>
+								<latitude>35.34063009043844</latitude>
+								<altitude>0</altitude>
+								<heading>-62.46343745766319</heading>
+								<tilt>67.6064862659656</tilt>
+								<range>7131.323646428426</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>2</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>138.732831233965</longitude>
+								<latitude>35.34631761100981</latitude>
+								<altitude>0</altitude>
+								<heading>8.54680114884243</heading>
+								<tilt>63.6005664023261</tilt>
+								<range>4599.456156339281</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>5</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>138.7117696613163</longitude>
+								<latitude>35.35924486897797</latitude>
+								<altitude>0</altitude>
+								<heading>77.97081549606358</heading>
+								<tilt>65.19409798035845</tilt>
+								<range>8748.160445429821</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+						<gx:FlyTo>
+							<gx:duration>8</gx:duration>
+							<LookAt>
+								<longitude>-122.0820910773159</longitude>
+								<latitude>37.41931975444069</latitude>
+								<altitude>0</altitude>
+								<heading>-25.52915008078697</heading>
+								<tilt>60.16567815354701</tilt>
+								<range>421.7487119859438</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0828356355515</longitude>
+								<latitude>37.41970831813314</latitude>
+								<altitude>0</altitude>
+								<heading>-48.22990007554524</heading>
+								<tilt>77.38490900520242</tilt>
+								<range>281.1183154577782</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>3</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0837867591564</longitude>
+								<latitude>37.42075190046511</latitude>
+								<altitude>0</altitude>
+								<heading>-48.20230753378853</heading>
+								<tilt>77.38416695218248</tilt>
+								<range>196.354133688462</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0845501159868</longitude>
+								<latitude>37.4218699663417</latitude>
+								<altitude>0</altitude>
+								<heading>-69.56777763392701</heading>
+								<tilt>70.05009898715139</tilt>
+								<range>179.6078491941072</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0865370283483</longitude>
+								<latitude>37.42216403229413</latitude>
+								<altitude>0</altitude>
+								<heading>-76.24554149800839</heading>
+								<tilt>66.0643204358401</tilt>
+								<range>186.138599501638</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0855609773483</longitude>
+								<latitude>37.42182792652437</latitude>
+								<altitude>0</altitude>
+								<heading>136.7389026227908</heading>
+								<tilt>53.07129205583576</tilt>
+								<range>205.5505645659833</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:FlyTo>
+							<gx:duration>4</gx:duration>
+							<gx:flyToMode>smooth</gx:flyToMode>
+							<LookAt>
+								<longitude>-122.0857031347691</longitude>
+								<latitude>37.42169546784739</latitude>
+								<altitude>0</altitude>
+								<heading>51.91673446403121</heading>
+								<tilt>50.75900171716816</tilt>
+								<range>232.187882698068</range>
+								<altitudeMode>relativeToGround</altitudeMode>
+							</LookAt>
+						</gx:FlyTo>
+						<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+						<gx:TourControl>
+						</gx:TourControl>
+					</gx:Playlist>
+				</gx:Tour>
+				<Placemark id="eiffel">
+					<name>The Eiffel Tower</name>
+					<visibility>0</visibility>
+					<description>Located in Paris, France</description>
+					<LookAt>
+						<longitude>2.295967680887427</longitude>
+						<latitude>48.85780097266282</latitude>
+						<altitude>0</altitude>
+						<heading>-42.91158279440752</heading>
+						<tilt>58.51308219868477</tilt>
+						<range>798.4686453648802</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>2.295967680887427,48.85780097266282,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="christ">
+					<name>Christ the Redeemer</name>
+					<visibility>0</visibility>
+					<description>Located in Rio, Brazil</description>
+					<LookAt>
+						<longitude>-43.20953574843956</longitude>
+						<latitude>-22.950407157676</latitude>
+						<altitude>0</altitude>
+						<heading>-134.4620862063529</heading>
+						<tilt>58.47824597790541</tilt>
+						<range>518.7551361289096</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>-43.20953574843956,-22.95040715767599,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="canyon">
+					<name>The Grand Canyon</name>
+					<visibility>0</visibility>
+					<description>Located in Arizona, USA</description>
+					<LookAt>
+						<longitude>-111.839335188889</longitude>
+						<latitude>36.14936973429993</latitude>
+						<altitude>0</altitude>
+						<heading>-102.4264123877612</heading>
+						<tilt>60.36812941371167</tilt>
+						<range>17029.89256740801</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>-111.839335188889,36.14936973429993,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="sydney">
+					<name>Sydney</name>
+					<visibility>0</visibility>
+					<description>New South Wales, Australia</description>
+					<LookAt>
+						<longitude>151.2122001847845</longitude>
+						<latitude>-33.85543600090152</latitude>
+						<altitude>0</altitude>
+						<heading>-136.7378847758026</heading>
+						<tilt>68.87493344592141</tilt>
+						<range>1332.179816629172</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>151.2122001847845,-33.85543600090152,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="peters">
+					<name>St Peters Basilica</name>
+					<visibility>0</visibility>
+					<description>Located in Vatican City</description>
+					<LookAt>
+						<longitude>12.45863229278517</longitude>
+						<latitude>41.90238356414683</latitude>
+						<altitude>0</altitude>
+						<heading>-88.09821473983064</heading>
+						<tilt>72.55531058146758</tilt>
+						<range>545.5229608700497</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>12.45863229278517,41.90238356414683,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="london">
+					<name>The London Eye</name>
+					<visibility>0</visibility>
+					<description>Located in London, England</description>
+					<LookAt>
+						<longitude>-0.1208037863755851</longitude>
+						<latitude>51.50295856070689</latitude>
+						<altitude>0</altitude>
+						<heading>-119.6219029975624</heading>
+						<tilt>54.36628262074456</tilt>
+						<range>667.3903819080039</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>-0.1208037863755851,51.50295856070689,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="titanic">
+					<name>The Titanic</name>
+					<visibility>0</visibility>
+					<description>Located in the North Atlantic Ocean</description>
+					<LookAt>
+						<longitude>-49.94881009327763</longitude>
+						<latitude>41.72834170105288</latitude>
+						<altitude>0</altitude>
+						<heading>46.46743078657357</heading>
+						<tilt>59.42261846268553</tilt>
+						<range>858.0285123602595</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>-49.94881009327763,41.72834170105288,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="forbidden">
+					<name>The Forbidden City</name>
+					<visibility>0</visibility>
+					<description>Located in China</description>
+					<LookAt>
+						<longitude>116.3908088768237</longitude>
+						<latitude>39.91379916102216</latitude>
+						<altitude>0</altitude>
+						<heading>-1.138855209962087</heading>
+						<tilt>63.78082439241467</tilt>
+						<range>804.0076519351231</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>116.3908088768236,39.91379916102216,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="fuji">
+					<name>Mount Fuji</name>
+					<visibility>0</visibility>
+					<description>Located near Tokyo, Japan</description>
+					<LookAt>
+						<longitude>138.7818265722904</longitude>
+						<latitude>35.34063009043844</latitude>
+						<altitude>0</altitude>
+						<heading>-62.46343745766319</heading>
+						<tilt>67.6064862659656</tilt>
+						<range>7131.323646428426</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>138.7818265722904,35.34063009043844,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="google">
+					<name>Google Headquarters</name>
+					<visibility>0</visibility>
+					<description>Located in Mountain View, California</description>
+					<LookAt>
+						<longitude>-122.0857031353512</longitude>
+						<latitude>37.42169546752972</latitude>
+						<altitude>0</altitude>
+						<heading>51.91673446364886</heading>
+						<tilt>50.75900171660835</tilt>
+						<range>232.1878066927673</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#sn_noicon</styleUrl>
+					<Point>
+						<coordinates>-122.0857031353512,37.42169546752972,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
